@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-16T09:37:20" hostname="LAPTOP-MI8IDN5G" time="3.907">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs1000" classname="PythagoreanTripletTest" time="0.035"/>
+  <testcase name="tripletsWhoseSumIs1001" classname="PythagoreanTripletTest" time="0.006"/>
+  <testcase name="tripletsWhoseSumIs108" classname="PythagoreanTripletTest" time="0.0"/>
+  <testcase name="tripletsWhoseSumIs840" classname="PythagoreanTripletTest" time="0.005"/>
+  <testcase name="tripletsWhoseSumIs12" classname="PythagoreanTripletTest" time="0.0"/>
+  <testcase name="tripletsWhoseSumIs90" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs30000" classname="PythagoreanTripletTest" time="3.858"/>
+  <system-out><![CDATA[==================> 200 375 425.0 sum: 1000 | 200375425.0
+==================> 27 36 45.0 sum: 108 | 273645.0
+==================> 40 399 401.0 sum: 840 | 40399401.0
+==================> 56 390 394.0 sum: 840 | 56390394.0
+==================> 105 360 375.0 sum: 840 | 105360375.0
+==================> 120 350 370.0 sum: 840 | 120350370.0
+==================> 140 336 364.0 sum: 840 | 140336364.0
+==================> 168 315 357.0 sum: 840 | 168315357.0
+==================> 210 280 350.0 sum: 840 | 210280350.0
+==================> 240 252 348.0 sum: 840 | 240252348.0
+==================> 3 4 5.0 sum: 12 | 345.0
+==================> 9 40 41.0 sum: 90 | 94041.0
+==================> 15 36 39.0 sum: 90 | 153639.0
+==================> 1200 14375 14425.0 sum: 30000 | 12001437514425.0
+==================> 1875 14000 14125.0 sum: 30000 | 18751400014125.0
+==================> 5000 12000 13000.0 sum: 30000 | 50001200013000.0
+==================> 6000 11250 12750.0 sum: 30000 | 60001125012750.0
+==================> 7500 10000 12500.0 sum: 30000 | 75001000012500.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
